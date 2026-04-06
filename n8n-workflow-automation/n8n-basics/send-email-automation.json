@@ -49,7 +49,7 @@
           "values": [
             {
               "fieldLabel": "What is your full Name",
-              "placeholder": "e.g. Md Al Amin",
+              "placeholder": "e.g. Arslan",
               "requiredField": true
             },
             {
@@ -103,7 +103,7 @@
         "messages": {
           "values": [
             {
-              "content": "=You are a highly qualified email writer, and you write a professional email.\nI want you to draft a good email to be sent to the below details and make sure its will be professional.\nand his name is  {{ $json['What is your full Name'] }}\nand is email: {{ $json['What is your email.'] }}\nsubmitted at: {{ $json.submittedAt }}\n\nuseing avove send a very good greeting emmail to the user.\n\nSign it as below\n- Aminul islam\ncompany: GTR Bangladesh\nphone: 01733339998"
+              "content": "=You are a highly qualified email writer, and you write a professional email.\nI want you to draft a good email to be sent to the below details and make sure its will be professional.\nand his name is  {{ $json['What is your full Name'] }}\nand is email: {{ $json['What is your email.'] }}\nsubmitted at: {{ $json.submittedAt }}\n\nuseing avove send a very good greeting emmail to the user.\n\nSign it as below\n- Arslan\ncompany: (your company)\nphone: (your phone)"
             }
           ]
         },

@@ -413,7 +413,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "https://alamin5.app.n8n.cloud/webhook/f158ae22-1c40-4354-a21c-f868be77699a",
+        "url": "https://arslan578.app.n8n.cloud/webhook/f158ae22-1c40-4354-a21c-f868be77699a",
         "sendBody": true,
         "specifyBody": "json",
         "jsonBody": "={{ /*n8n-auto-generated-fromAI-override*/ $fromAI('JSON', ``, 'json') }}",
